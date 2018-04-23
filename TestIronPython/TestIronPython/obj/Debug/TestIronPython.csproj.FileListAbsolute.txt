@@ -1,0 +1,10 @@
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\bin\Debug\TestIronPython.exe.config
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\bin\Debug\TestIronPython.exe
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\bin\Debug\TestIronPython.pdb
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\bin\Debug\IronPython.dll
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\obj\Debug\TestIronPython.csprojResolveAssemblyReference.cache
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\obj\Debug\TestIronPython.csproj.CoreCompileInputs.cache
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\obj\Debug\TestIronPython.exe
+C:\Users\Edhar_Menhel\Desktop\TestIronPython\TestIronPython\obj\Debug\TestIronPython.pdb
