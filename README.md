@@ -18,7 +18,7 @@ It's a parser for people, who want to use ccxt module in their .Net projects
 	python -m pip install ccxt
 ```
 2. Go to `C:\Python27\Lib\site-packages` and do next:
-	a. `C:\Python27\Lib\site-packages\certifi\core.py` <-- Change path in next method:
+   - `C:\Python27\Lib\site-packages\certifi\core.py` <-- Change path in next method:
 ```Python
     def where():
         f = os.path.dirname(__file__)
